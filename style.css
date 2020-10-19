@@ -1,0 +1,51 @@
+.excs {
+    width: 42%;
+    margin: auto;
+    padding: 1%;
+    border: 1px solid black;
+    text-align: center;
+    margin: 2%;
+}
+
+#estados{
+    width: 50%;
+    height: 30px;
+    background-color: lightgray;
+}
+
+.excs img{
+    width: 50%;
+}
+
+.excs{
+    float: left;
+}
+
+.excs div{
+    width: 45%;
+    margin: 5px;
+    float: left;
+}
+
+.excs table{
+    border-collapse: collapse;
+}
+
+.excs th,td{
+    width: 100%;
+    height: 25px;
+    border: 1px solid black;
+}
+
+#planetas{
+    width: 100%;
+    height: 30px;
+    background-color: lightgray;
+    margin-bottom: 5px;
+}
+
+#peso{
+    width: 100%;
+    height: 20px;
+    margin-bottom: 5px;
+}
